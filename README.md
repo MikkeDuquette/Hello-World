@@ -1,2 +1,4 @@
 # Hello-World
 Mikke's first repository
+This is my venture into the world of coding. I want to use my love for ceativity and technology to start an exciting career in web development. I am currently self taught, and this is my first time on GitHub. I am amazed and excited by all the fantastic tools and resourced out there for people like myself who want to get into coding.
+I, myself, am a thirty year old Canadian male, licing in British Coloumbia. I work in tech support for a small music software company, and have a loving girlfriend and two dogs. As thirty is a cusp of change for many, I am reflecting on my future. I want to become a remote, front-end web developer creating websites and new user experiances. I was to have the freedom to live where I want, maintain a fufilling career, and enjoy what I do. That is why I am now learning code.
